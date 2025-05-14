@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a page that displays information from the NASA API<br>🌱 I'm currently learning React and TypeScript.<br>🎵 When i'm not programming i'm making music.<br>
+🔭 I'm currently working on a page that displays information from the NASA API<br>🌱 I'm currently learning React and TypeScript<br>🎵 When i'm not programming i'm making music<br>
 
 
 ## 🌐 Socials:
